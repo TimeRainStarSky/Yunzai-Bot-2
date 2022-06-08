@@ -8,7 +8,7 @@ echo -e "\n ======== \n ${Info} ${GreenBG} 当前版本信息 ${Font} \n =======
 git log -1 --pretty=format:"%h - %an, %ar (%cd) : %s"
 
 echo -e "\n ======== \n ${Info} ${GreenBG} 更新运行依赖 ${Font} \n ======== \n"
-cnpm install
+npm install
 
 echo -e "\n ======== \n ${Info} ${GreenBG} 启动云崽-BOT ${Font} \n ======== \n"
 node app

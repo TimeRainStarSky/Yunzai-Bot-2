@@ -1,9 +1,9 @@
-version: "3"
+version: "3.9"
 services:
   yunzai-bot:
-    build: . # 使用 Dockerfile 本地构建
+    image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:latest
+    # build: . # 使用 Dockerfile 本地构建，需要Linux环境和非常良好的网络
     # image: ccr.ccs.tencentyun.com/xm798/yunzai-bot:latest   # 使用镜像
-    # image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:latest   # 备用精简镜像
     restart: always
     volumes:
       - ./Yunzai/config.js:/app/Yunzai-Bot/config/config.js # config.js 配置文件，配置文件中 redis 地址填写 "redis"
