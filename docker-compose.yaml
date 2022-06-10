@@ -1,9 +1,12 @@
 version: "3.9"
 services:
   yunzai-bot:
-    image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:latest
+    container_name: yunzai-bot
     # build: . # 使用 Dockerfile 本地构建，需要Linux环境和非常良好的网络
+    image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:latest
+    # image: sirly/yunzai-bot:latest  # 使用Docker Hub镜像，GitHub源
     # image: ccr.ccs.tencentyun.com/xm798/yunzai-bot:latest   # 使用镜像
+    # image: xm798/yunzai-bot:latest
     restart: always
     volumes:
       - ./Yunzai/config.js:/app/Yunzai-Bot/config/config.js # config.js 配置文件，配置文件中 redis 地址填写 "redis"
@@ -18,6 +21,7 @@ services:
       redis: { condition: service_healthy }
 
   redis:
+    container_name: yunzai-redis
     image: "redis:alpine"
     restart: always
     volumes:
