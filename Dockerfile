@@ -1,9 +1,6 @@
 FROM node:current-alpine
 
-ENV GreenBG="\\033[42;37m" \
-    Font="\\033[0m" \
-    Info="${Green}[信息]${Font}" \
-    PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
+ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
     PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
 
 COPY ./fonts/wqy-microhei.ttc /usr/share/fonts/wqy-microhei.ttc
@@ -11,8 +8,11 @@ COPY ./fonts/wqy-microhei.ttc /usr/share/fonts/wqy-microhei.ttc
 RUN apk -U --no-cache update \
     && apk -U --no-cache upgrade \
     && apk -U --no-cache --allow-untrusted add git chromium nss freetype harfbuzz ca-certificates ttf-freefont \
+    && rm -rf /var/cache/* \
     && git config --global --add safe.directory '*' \
-    && rm -rf /var/cache/*
+    && git config --global pull.rebase false \
+    && git config --global user.email "Yunzai@yunzai.bot" \
+    && git config --global user.name "Yunzai"
 
 WORKDIR /app
 
