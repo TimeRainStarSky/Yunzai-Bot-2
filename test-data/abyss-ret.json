@@ -1,0 +1,1125 @@
+{
+	"uid": 138638352,
+	"playerAvatars": [
+		{
+			"id": 10000058,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14509,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150051,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000063,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13507,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150191,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000037,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15502,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 4
+				},
+				{
+					"id": 2150221,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000054,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14506,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150191,
+					"count": 1
+				},
+				{
+					"id": 2150221,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000002,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11509,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140011,
+					"count": 4
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000052,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13509,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150061,
+					"count": 1
+				},
+				{
+					"id": 2150201,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000057,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12510,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150211,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000030,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150071,
+					"count": 4
+				},
+				{
+					"id": 2150231,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000062,
+			"level": 90,
+			"activedConstellationNum": 0,
+			"weapon": {
+				"id": 15402,
+				"level": 80,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140011,
+					"count": 2
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150191,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000003,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150021,
+					"count": 2
+				},
+				{
+					"id": 2150071,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000016,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12502,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 1
+				},
+				{
+					"id": 2150061,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000022,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15503,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 1
+				},
+				{
+					"id": 2150021,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000026,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13505,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150231,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000029,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14502,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150061,
+					"count": 2
+				},
+				{
+					"id": 2150071,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000033,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15507,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150161,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000035,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150161,
+					"count": 1
+				},
+				{
+					"id": 2150221,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000038,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11502,
+				"level": 90,
+				"affixLevel": 4
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150071,
+					"count": 3
+				},
+				{
+					"id": 2150231,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000041,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14501,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150161,
+					"count": 2
+				},
+				{
+					"id": 2150201,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000042,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11505,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150051,
+					"count": 2
+				},
+				{
+					"id": 2150181,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000046,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140011,
+					"count": 1
+				},
+				{
+					"id": 2150191,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000047,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11503,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150021,
+					"count": 4
+				},
+				{
+					"id": 2150051,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000049,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15509,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2150201,
+					"count": 1
+				},
+				{
+					"id": 2150241,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000051,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12503,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150081,
+					"count": 2
+				},
+				{
+					"id": 2150181,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000060,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15508,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150161,
+					"count": 2
+				},
+				{
+					"id": 2150171,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000066,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11505,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150161,
+					"count": 4
+				},
+				{
+					"id": 2150221,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000006,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14502,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 4
+				},
+				{
+					"id": 2150051,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000014,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14406,
+				"level": 80,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 1
+				},
+				{
+					"id": 2150031,
+					"count": 3
+				},
+				{
+					"id": 2150191,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000015,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11501,
+				"level": 20,
+				"affixLevel": 4
+			},
+			"reliquarySets": [
+				{
+					"id": 2140011,
+					"count": 4
+				},
+				{
+					"id": 2150081,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000020,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12502,
+				"level": 90,
+				"affixLevel": 4
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 1
+				},
+				{
+					"id": 2150071,
+					"count": 1
+				},
+				{
+					"id": 2150081,
+					"count": 1
+				},
+				{
+					"id": 2150181,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000021,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 2
+				},
+				{
+					"id": 2150061,
+					"count": 1
+				},
+				{
+					"id": 2150151,
+					"count": 1
+				},
+				{
+					"id": 2150191,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000023,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13502,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150061,
+					"count": 3
+				},
+				{
+					"id": 2150201,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000024,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12412,
+				"level": 80,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140031,
+					"count": 1
+				},
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150231,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000025,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11502,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 1
+				},
+				{
+					"id": 2150151,
+					"count": 1
+				},
+				{
+					"id": 2150201,
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": 10000027,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14504,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150141,
+					"count": 2
+				},
+				{
+					"id": 2150191,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000031,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15502,
+				"level": 90,
+				"affixLevel": 2
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150051,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000032,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11509,
+				"level": 90,
+				"affixLevel": 1
+			},
+			"reliquarySets": [
+				{
+					"id": 2150021,
+					"count": 1
+				},
+				{
+					"id": 2150071,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000034,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12510,
+				"level": 90,
+				"affixLevel": 1
+			},
+			"reliquarySets": [
+				{
+					"id": 2140011,
+					"count": 1
+				},
+				{
+					"id": 2150011,
+					"count": 2
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150211,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000036,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 1
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150071,
+					"count": 2
+				},
+				{
+					"id": 2150201,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000039,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15503,
+				"level": 90,
+				"affixLevel": 2
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 2
+				},
+				{
+					"id": 2150011,
+					"count": 1
+				},
+				{
+					"id": 2150151,
+					"count": 1
+				},
+				{
+					"id": 2150221,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000043,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14403,
+				"level": 80,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 1
+				},
+				{
+					"id": 2150021,
+					"count": 2
+				},
+				{
+					"id": 2150031,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000044,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12504,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 1
+				},
+				{
+					"id": 2150031,
+					"count": 1
+				},
+				{
+					"id": 2150081,
+					"count": 1
+				},
+				{
+					"id": 2150161,
+					"count": 1
+				},
+				{
+					"id": 2150201,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000045,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13505,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150011,
+					"count": 4
+				},
+				{
+					"id": 2150021,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000048,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 14413,
+				"level": 80,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2140021,
+					"count": 1
+				},
+				{
+					"id": 2150031,
+					"count": 3
+				},
+				{
+					"id": 2150061,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000050,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13505,
+				"level": 90,
+				"affixLevel": 3
+			},
+			"reliquarySets": [
+				{
+					"id": 2140041,
+					"count": 1
+				},
+				{
+					"id": 2150081,
+					"count": 2
+				},
+				{
+					"id": 2150181,
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": 10000053,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 12501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150021,
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": 10000055,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15403,
+				"level": 80,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150201,
+					"count": 1
+				},
+				{
+					"id": 2150211,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000056,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 15501,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150191,
+					"count": 1
+				},
+				{
+					"id": 2150201,
+					"count": 3
+				},
+				{
+					"id": 2150231,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000064,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 13502,
+				"level": 90,
+				"affixLevel": 5
+			},
+			"reliquarySets": [
+				{
+					"id": 2150211,
+					"count": 4
+				},
+				{
+					"id": 2150231,
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": 10000065,
+			"level": 90,
+			"activedConstellationNum": 4,
+			"weapon": {
+				"id": 11503,
+				"level": 90,
+				"affixLevel": 1
+			},
+			"reliquarySets": [
+				{
+					"id": 2140011,
+					"count": 1
+				},
+				{
+					"id": 2140041,
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": 10000007,
+			"level": 90,
+			"activedConstellationNum": 6,
+			"weapon": {
+				"id": 11504,
+				"level": 90,
+				"affixLevel": 1
+			},
+			"reliquarySets": []
+		}
+	],
+	"playerSpiralAbyssesLevels": []
+}
