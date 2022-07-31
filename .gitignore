@@ -141,3 +141,6 @@ dump.rdb
 !/plugins/demo/*
 *.psd
 *.css.map
+
+/yunzai
+/redis
