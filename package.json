@@ -1,6 +1,6 @@
 {
   "name": "yunzai",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "homepage": "https://github.com/Le-niao/Yunzai-Bot",
   "author": "Le-niao",
   "description": "Genshin QQ group Bot",
@@ -28,6 +28,9 @@
   "dependencies": {
     "art-template": "^4.13.2",
     "baidu-aip-sdk": "^2.0.2",
+    "cheerio": "^1.0.0-rc.12",
+    "eslint": "^8.22.0",
+    "eslint-config-standard": "^17.0.0",
     "image-size": "^1.0.1",
     "inquirer": "^8.2.4",
     "lodash": "^4.17.21",
