@@ -3,9 +3,9 @@ services:
   yunzai-bot:
     container_name: yunzai-bot
     # build: ./docker                                                 # 使用 Dockerfile 本地构建，需要Linux环境和非常良好的网络
-    image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:latest   # 基础镜像
-    # image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:plus   # 扩展镜像，内含ffmpeg和python，可以直接运行相应插件
-    # image: sirly/yunzai-bot:latest                                  # 使用Docker Hub镜像，GitHub源
+    image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:v2       # 基础镜像
+    # image: swr.cn-south-1.myhuaweicloud.com/sirly/yunzai-bot:v2plus # 扩展镜像，内含ffmpeg和python，可以直接运行相应插件
+    # image: sirly/yunzai-bot:v2                                      # 使用Docker Hub镜像，GitHub源
     # image: ccr.ccs.tencentyun.com/xm798/yunzai-bot:latest
     # image: xm798/yunzai-bot:latest
     restart: always
