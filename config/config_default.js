@@ -42,16 +42,18 @@ let config = {
   ],
   allowUseNoteCookie: false, // 是否允许Bot使用NoteCookie中的记录进行查询
   roleAllAvatar: false, // #角色 命令下是否展示全部角色 true：展示全部角色，false：展示12个角色，默认false
-  disablePrivate:false, //禁用私聊功能 true：私聊只接受ck以及抽卡链接（Bot主人不受限制），false：私聊可以触发全部指令，默认false
+  disablePrivate: false, //禁用私聊功能 true：私聊只接受ck以及抽卡链接（Bot主人不受限制），false：私聊可以触发全部指令，默认false
   //默认cookie帮助文档链接地址，其他ck帮助链接
   //www.wolai.com/tremorstar/jRjczxsfdsmzWDaDVVwVEM
   //yakultoo.feishu.cn/docs/doccnnepmeWeweGSbjgBM8vIsCe
   cookieDoc: "docs.qq.com/doc/DUWNVQVFTU3liTVlO",
-  disableMsg:"私聊已禁用", //禁用私聊Bot提示内容
-  decreaseCookie:0,   //退群删ck 多种模式 -1不进方法 0不处理 1退群删除ck并且删除好友（注：用户多个群存在时不会处理）  2退群把ck处理为关闭自动签到跟推送等（注：用户多个群存在时不会处理）3、4、5消息会输出日志并且转发主人，不会发送群聊消息 6.管理员踢人不提醒只输出控制台日志
+  disableMsg: "私聊已禁用", //禁用私聊Bot提示内容
+  decreaseCookie: 0,   //退群删ck 多种模式 -1不进方法 0不处理 1退群删除ck并且删除好友（注：用户多个群存在时不会处理）  2退群把ck处理为关闭自动签到跟推送等（注：用户多个群存在时不会处理）3、4、5消息会输出日志并且转发主人，不会发送群聊消息 6.管理员踢人不提醒只输出控制台日志
   //推送任务
   pushTask: {
+    signTask: 0,             //是否开启签到任务， 1-开启，0-关闭
     signTime: "0 2 0 * * ?", //签到任务执行时间，Cron表达式，默认00:02开始执行，每10s签到一个
+
     isPushSign: 1,           //是否推送签到成功消息 1-推送 0-关闭
     isPushLedger: 1,         //是否推送每月原石统计 1-推送 0-关闭
     isPushNote: 1,           //是否推送体力 1-推送，0-关闭
