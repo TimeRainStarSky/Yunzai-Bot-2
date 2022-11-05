@@ -1,7 +1,8 @@
 # 2.2.3
 
 * 增加e.runtime，作为plugin兼容
-* 请V2升级至此版本，预计从11月底起miao-plugin将不再支持2.2.3以下版本Yunzai
+* **V2请尽量升级至此版本**，后续miao-plugin将会依赖e.runtime做v2/v3兼容
+* 增加3.2版本素材，来自 **Ganyu256/Yunzai-Bot**
 
 # 2.2.2
 
