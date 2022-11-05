@@ -1,3 +1,8 @@
+# 2.2.3
+
+* 增加e.runtime，作为plugin兼容
+* 请V2升级至此版本，预计从11月底起miao-plugin将不再支持2.2.3以下版本Yunzai
+
 # 2.2.2
 
 * 系统自动签到任务默认关闭，如需打开可在`config/config.js`中设置pushTask.signTask=1开启
