@@ -11,6 +11,10 @@
     * 自动重试至签到完成，上限重试20次
     * 优化全部签到的输出文案
 * 增加3.0相关的卡池、及每日素材等信息
+* 添加 登录短信验证 功能
+* 修复 首次运行生成配置时 主人QQ 配置失效
+* 该版本仅用于 TRSS Yunzai 管理脚本 **@TimeRainStarSky**
+    * `https://github.com/TimeRainStarSky/TRSS_Yunzai`
 
 # 2.2.1
 
@@ -29,9 +33,6 @@
 * 新增`#退群删除ck`功能，可在用户退群时删除ck或关闭自动签到。需要在config.js中打开 **@cvs**
 * 增加妖刀的图片及配置信息 **@cvs**
 * `#版本`命令现在会展示最近更新内容
-* 如需升级新版Yunzai，可在Yunzai根目录输入下方命令，git pull更新后重启
-    * `git remote set-url origin https://gitee.com/yoimiya-kokomi/Yunzai-Bot`
-    * 升级至2.1.9之后，可通过`#更新`命令进行更新
 
 # 2.1.9
 

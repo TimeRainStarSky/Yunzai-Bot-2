@@ -4,24 +4,7 @@
 项目仅供学习交流使用，严禁用于任何商业用途和非法行为
 
 ## 使用方法
->环境准备： Windows or Linux，Node.js（[版本至少v14以上](http://nodejs.cn/download/)），[Redis](resources/readme/命令说明.md#window安装redis)
->
->[Linux环境一键搭建](https://github.com/Le-niao/Yunzai-Bot/issues/3)，[Windows按下面的就行](https://www.bilibili.com/read/cv15119056)，[安卓手机搭建](https://www.bilibili.com/read/cv15126105)
-```
-1.克隆项目
-git clone https://github.com/Le-niao/Yunzai-Bot.git
-cd Yunzai-Bot
-
-用cnpm安装
-npm install -g cnpm --registry=https://registry.npmmirror.com
-cnpm install
-
-2.首次运行，按提示输入完成配置登录
-node app
-
-3.需要后台运行的，停止现在的输入下面命令
-npm start
-```
+[![TRSS Yunzai 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Yunzai&show_owner=true)](https://github.com/TimeRainStarSky/TRSS_Yunzai)
 
 ## 操作指令
 >

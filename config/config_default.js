@@ -1,8 +1,5 @@
-/**
- * 默认配置
- * 请复制一份重命名为config.js
- * 然后填写配置信息，支持热更新
- */
+/* 欢迎使用 TRSS Yunzai ! 作者：时雨🌌星空
+ * 按 Ctrl+Q Y 保存退出 */
 let config = {
   //qq账号 密码
   account: {
@@ -14,46 +11,42 @@ let config = {
     autoQuit: 1,      //1-自动退小群 0-不处理
   },
 
-  //redis配置(默认配置就好，一般都不用改，使用docker搭建的用户需要更改host项)
+  //redis配置(默认配置就好，一般都不用改)
   redis: {
-    //host: "redis",   //docker redis容器地址，如果使用docker请取消注释此行并注释下一行
     host: "127.0.0.1", //redis地址
     port: 6379,        //redis端口
     password: "",      //redis密码，没有密码可以为空
     db: 0,             //redis数据库
   },
 
-  /**
-   * 米游社cookies，支持多个，用逗号隔开
+  /* 米游社cookies，支持多个，用逗号隔开
    * 访问米游社原神社区(https://bbs.mihoyo.com/ys/)，登录后账户点击 F12 ，
    * 选中 Console 或控制台，点击控制台粘贴这一句
    * document.cookie ，回车即可获取
-   * 获取教程：https://docs.qq.com/doc/DUWNVQVFTU3liTVlO
+   * 获取教程：https://docs.qq.com/doc/DWXdoQUlEdFlKcFlm
    * 例如 用引号包住，多个用逗号隔开
    * 'ltoken=***;ltuid=***;',
    * 'ltoken=***;ltuid=***;',
    * cookie逻辑：一个号一天只能查30个uid（包括查询失败的），在没超过30的时候，之前查过的uid可以重复查询
    * 所以项目限制一个cookie只能查27个，避免超出限制，查询过的可以重复查
-   * 获取完别退出登录否则cookie就会失效，多账号用无痕（隐身）模式获取
-   */
+   * 获取完别退出登录否则cookie就会失效，多账号用无痕（隐身）模式获取 */
   mysCookies: [
     // 'ltoken=***;ltuid=***;',
     // 'ltoken=***;ltuid=***;',
   ],
-  allowUseNoteCookie: false, // 是否允许Bot使用NoteCookie中的记录进行查询
-  roleAllAvatar: false, // #角色 命令下是否展示全部角色 true：展示全部角色，false：展示12个角色，默认false
+  allowUseNoteCookie: true, // 是否允许Bot使用NoteCookie中的记录进行查询
+  roleAllAvatar: true, // #角色 命令下是否展示全部角色 true：展示全部角色，false：展示12个角色，默认false
   disablePrivate: false, //禁用私聊功能 true：私聊只接受ck以及抽卡链接（Bot主人不受限制），false：私聊可以触发全部指令，默认false
   //默认cookie帮助文档链接地址，其他ck帮助链接
   //www.wolai.com/tremorstar/jRjczxsfdsmzWDaDVVwVEM
   //yakultoo.feishu.cn/docs/doccnnepmeWeweGSbjgBM8vIsCe
-  cookieDoc: "docs.qq.com/doc/DUWNVQVFTU3liTVlO",
+  cookieDoc: "https://docs.qq.com/doc/DWXdoQUlEdFlKcFlm",
   disableMsg: "私聊已禁用", //禁用私聊Bot提示内容
   decreaseCookie: 0,   //退群删ck 多种模式 -1不进方法 0不处理 1退群删除ck并且删除好友（注：用户多个群存在时不会处理）  2退群把ck处理为关闭自动签到跟推送等（注：用户多个群存在时不会处理）3、4、5消息会输出日志并且转发主人，不会发送群聊消息 6.管理员踢人不提醒只输出控制台日志
   //推送任务
   pushTask: {
     signTask: 0,             //是否开启签到任务， 1-开启，0-关闭
     signTime: "0 2 0 * * ?", //签到任务执行时间，Cron表达式，默认00:02开始执行，每10s签到一个
-
     isPushSign: 1,           //是否推送签到成功消息 1-推送 0-关闭
     isPushLedger: 1,         //是否推送每月原石统计 1-推送 0-关闭
     isPushNote: 1,           //是否推送体力 1-推送，0-关闭
@@ -106,8 +99,8 @@ let config = {
       PokeCD: 10000,  //群聊中戳一戳冷却时间，单位毫秒
       disable: ['all'],//禁用所有功能
     },
-    'qq群号': {
-      disable: ['all'],//禁用所有功能
+    '211414032': {
+      onlyReplyAt: true, // 只关注主动at bot的信息
     }
   },
 
@@ -120,7 +113,7 @@ let config = {
   ],
   //黑名单q群
   balckGroup: [
-    213938015, 123456,
+    213938015,
   ],
 
   //对话ai,配置后@机器人进行聊天对话，推荐配置将你的机器人变成人工智障
